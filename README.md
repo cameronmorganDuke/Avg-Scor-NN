@@ -1,0 +1,1 @@
+After building a neural network from scratch I was ready to take my knowledge to a more powerful library. PyTorch is commonly used in the education system so I decided to give it a shot. I created a very basic NN that predicts the average points per year of a player based on their other stats and things about them. 
